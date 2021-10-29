@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T12:35:19.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="JKIJ4xpR6lMrrttQZf5C" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T13:15:01.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="2gAUETzZzSYBrjixuo3e" version="15.6.2" type="github">
   <diagram id="rIXRU2Wi2bjaIXBPkJ2B" name="Page-1">
-    <mxGraphModel dx="1265" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-46" value="Auto Scaling Group" style="dashed=1;verticalAlign=top;fontStyle=0;fontSize=10;fillColor=none;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="561" width="395" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-36" value="Availability Zone A" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="540" width="130" height="141" as="geometry" />
+        </mxCell>
         <mxCell id="UbwLkYC7kof-uV-PVnRL-1" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;" parent="1" vertex="1">
           <mxGeometry x="90" y="-200" width="140" height="200" as="geometry" />
         </mxCell>
@@ -99,6 +105,33 @@
         </mxCell>
         <mxCell id="0lwYfgk2ARXsVW5tRLFd-32" value="Unauthorized Intbound Traffic" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-33" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;" vertex="1" parent="1">
+          <mxGeometry x="-52.5" y="596" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-35" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="574" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-38" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="574" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-39" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="621" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-40" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="621" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-41" value="Availability Zone B" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="130" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-42" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="574" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-43" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="91" y="574" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0lwYfgk2ARXsVW5tRLFd-44" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF9900;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="621" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
