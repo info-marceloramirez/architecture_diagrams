@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T12:45:52.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="LON4EWvSC8p8m22U2tTb" type="github"><diagram id="OQ0EmM7Xb9CICZ_JNeIO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-12T13:58:42.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TE0pBygMt4nD0L6c7FSG" version="15.7.0" type="github">
+  <diagram id="OQ0EmM7Xb9CICZ_JNeIO" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7h7i-8I8U4jJSZl56zin-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="7h7i-8I8U4jJSZl56zin-2" target="7h7i-8I8U4jJSZl56zin-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="7h7i-8I8U4jJSZl56zin-2" target="7h7i-8I8U4jJSZl56zin-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="24.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-3" value="&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="425" y="200" width="40" height="37.65" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-4" value="Subscription" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="404.78999999999996" y="150" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-6" value="Resource Group" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="465" y="208.83" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-7" value="&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="425" y="250" width="40" height="37.65" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-8" value="Resource Group" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="465" y="258.83000000000004" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="7h7i-8I8U4jJSZl56zin-10" target="7h7i-8I8U4jJSZl56zin-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="40" height="36.57" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-11" value="Azure AD" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="260" y="148.28" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="7h7i-8I8U4jJSZl56zin-12" target="7h7i-8I8U4jJSZl56zin-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="7h7i-8I8U4jJSZl56zin-15" target="7h7i-8I8U4jJSZl56zin-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7h7i-8I8U4jJSZl56zin-15" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="138.28" width="36.57" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
